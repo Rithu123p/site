@@ -1,11 +1,10 @@
 ---
-id: forever-free
-title: The Forever Free Tier
-sidebar_label: The Forever Free Tier
-slug: /forever-free
+id: hello world
+title: The world
+slug: /the-world
 ---
 
-localhost.run offers a forever free plan that not only doesn't require a client download, it doesn't even require signup for short-lived tunnels.
+iam hacking you you are trappedk
 
 Follow along with [The Basics](the-basics.md) and you'll be up and running in no time.
 
